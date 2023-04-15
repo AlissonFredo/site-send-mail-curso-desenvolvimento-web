@@ -1,2 +1,2 @@
-# app-send-mail-curso-desenvolvimento-web
-app-send-mail-curso-desenvolvimento-web
+# site-send-mail-curso-desenvolvimento-web
+site-send-mail-curso-desenvolvimento-web
